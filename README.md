@@ -72,7 +72,7 @@
 <a href="https://twitter.com/shyamsunderja15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyamsunderja15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shyam-jaiswal-571a09218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam-jaiswal-571a09218" height="30" width="40" /></a>
 <a href="https://fb.com/https://m.facebook.com/shyamsundar.jaiswal.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/shyamsundar.jaiswal.3" height="30" width="40" /></a>
-<a href="https://instagram.com/shyam_jaiswal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyam_jaiswal07" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saransh_jaiswal07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyam_jaiswal07" height="30" width="40" /></a>
 </p>
 
 ## ❤  Followers
